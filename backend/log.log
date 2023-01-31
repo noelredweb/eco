@@ -1,0 +1,570 @@
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:38:29.881Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:38:29.891Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:38:44.479Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:38:44.486Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:39:02.257Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:39:02.262Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:40:22.706Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:40:22.723Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:40:52.003Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:40:52.007Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:41:07.319Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:41:07.337Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:41:28.066Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:41:28.076Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:42:03.418Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:42:03.427Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T15:43:36.457Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T15:43:36.466Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-13T06:30:00.436Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-13T06:30:00.446Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-11-30T16:17:24.612Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-11-30T16:17:24.617Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-12-01T11:22:20.311Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-12-01T11:22:20.324Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-02T11:00:42.617Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-02T11:00:42.626Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-21T13:14:13.498Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-21T13:14:13.511Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T21:14:41.594Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T21:14:41.602Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T22:43:57.109Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T22:43:57.120Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T22:48:51.362Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T22:48:51.386Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T22:49:25.976Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T22:49:25.991Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T22:49:32.456Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T22:49:32.465Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T22:51:52.841Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T22:51:52.855Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T22:52:28.551Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T22:52:28.568Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T22:58:11.961Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T22:58:11.968Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:02:48.970Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:02:48.982Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:04:31.903Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:04:31.935Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:06:02.768Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:06:02.809Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:14:09.322Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:14:09.334Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:14:38.634Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:14:38.643Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:28:46.337Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:28:46.345Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:42:52.190Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:42:52.201Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:46:05.026Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:46:05.065Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:46:27.309Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:46:27.326Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:48:17.142Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:48:17.210Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:50:53.119Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:50:53.128Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-23T23:51:51.359Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-23T23:51:51.377Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T18:25:17.579Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T18:25:17.619Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T18:43:32.635Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T18:43:32.641Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T18:47:34.928Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T18:47:34.936Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T18:48:14.066Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T18:48:14.072Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T18:51:38.211Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T18:51:38.219Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T18:54:13.549Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T18:54:13.676Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:04:13.663Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:04:13.670Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:05:38.242Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:05:38.308Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:06:23.711Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:06:23.719Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:06:32.092Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:06:32.119Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:07:41.432Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:07:41.445Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:08:32.439Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:08:32.447Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:17:32.308Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:17:32.316Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:18:54.040Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:18:54.056Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:21:06.899Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:21:06.914Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:38:23.940Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:38:23.964Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:42:51.249Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:42:51.281Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T19:50:10.478Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T19:50:10.487Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:26:54.262Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:26:54.341Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:27:42.324Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:27:42.372Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:39:11.459Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:39:11.466Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:48:58.323Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:48:58.329Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:50:23.753Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:50:23.760Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:52:45.844Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:52:45.855Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:53:34.349Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:53:34.360Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:55:00.143Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:55:00.150Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:55:09.435Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:55:09.442Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:56:24.574Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:56:24.608Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:57:51.726Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:57:51.735Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:58:03.660Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:58:03.735Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T20:58:21.239Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T20:58:21.257Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:29:04.763Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:29:04.771Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:30:17.784Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:30:17.791Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:48:10.912Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:48:10.931Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:48:56.432Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:48:56.440Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:49:59.141Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:49:59.242Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:50:18.294Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:50:18.301Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:50:51.295Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:50:51.302Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:51:10.047Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:51:10.053Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:51:33.934Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:51:33.957Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:54:56.287Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:54:56.293Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T21:57:29.845Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T21:57:29.854Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:06:41.678Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:06:41.686Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:06:54.663Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:06:54.732Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:08:03.284Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:08:03.351Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:08:30.992Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:08:30.998Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:08:58.610Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:08:58.616Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:09:11.941Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:09:11.982Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:09:59.743Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:09:59.750Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:10:10.079Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:10:10.088Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:10:26.822Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:10:26.850Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:10:41.341Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:10:41.348Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:11:47.905Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:11:47.913Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:11:55.545Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:11:55.561Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:13:02.611Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:13:02.620Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:26:12.357Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:26:12.367Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:26:39.300Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:26:39.349Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:32:20.524Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:32:20.617Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:32:36.583Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:32:36.590Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:33:45.570Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:33:45.629Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:39:11.293Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:39:11.301Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:40:17.098Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:40:17.124Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:43:20.612Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:43:20.620Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:43:45.380Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:43:45.391Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:45:36.115Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:45:36.122Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:45:51.110Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:45:51.170Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:46:17.713Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:46:17.723Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:47:26.217Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:47:26.234Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T22:54:15.957Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T22:54:15.967Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:18:37.719Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:18:37.949Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:34:47.274Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:34:47.296Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:37:26.465Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:37:26.518Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:38:29.829Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:38:29.836Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:39:01.103Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:39:01.193Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:40:28.667Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:40:28.698Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:42:37.935Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:42:37.943Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:46:04.783Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:46:04.840Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:47:23.351Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:47:23.368Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:52:01.230Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:52:01.253Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:53:11.827Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:53:11.837Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:55:16.824Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:55:16.833Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-28T23:56:02.682Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-28T23:56:02.695Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:19:42.789Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:19:42.800Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:20:31.301Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:20:31.309Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:25:20.033Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:25:20.157Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:28:46.147Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:28:46.163Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:29:19.153Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:29:19.164Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:42:55.599Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:42:55.604Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:43:17.448Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:43:17.467Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:44:54.649Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:44:54.656Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:46:05.774Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:46:05.785Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:46:44.550Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:46:44.582Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:50:25.169Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:50:25.178Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:51:37.317Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:51:37.360Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:52:47.000Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:52:47.014Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:54:47.961Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:54:48.112Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T00:55:06.105Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T00:55:06.111Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T12:08:09.822Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T12:08:09.829Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T12:08:54.280Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T12:08:54.286Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T12:11:35.178Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T12:11:35.242Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T12:28:58.942Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T12:28:58.962Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T12:29:09.350Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T12:29:09.360Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T19:41:42.665Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T19:41:42.696Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:01:06.628Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:01:06.652Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:01:40.007Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:01:40.034Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:02:12.273Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:02:12.292Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:02:24.071Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:02:24.098Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:02:28.398Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:02:28.424Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:02:54.843Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:02:54.854Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:03:44.720Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:03:44.729Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:05:38.561Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:05:38.567Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:05:47.982Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:05:48.019Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:05:51.563Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:05:51.573Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:06:15.566Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:06:15.589Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:06:20.794Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:06:20.800Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:08:52.240Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:08:52.259Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:12:15.279Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:12:15.309Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:12:25.802Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:12:25.811Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:36:28.450Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:36:28.467Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:38:18.543Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:38:18.556Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:38:37.056Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:38:37.062Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:39:02.922Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:39:02.928Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:39:18.999Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:39:19.031Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:45:02.842Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:45:02.850Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:45:32.248Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:45:32.259Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:45:51.788Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:45:51.811Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:46:00.326Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:46:00.333Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:46:37.603Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:46:37.615Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:50:47.136Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:50:47.153Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:53:41.908Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:53:41.914Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:53:51.937Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:53:51.948Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:54:12.721Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:54:12.734Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:55:01.946Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:55:01.958Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:56:28.222Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:56:28.294Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:57:33.992Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:57:34.003Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:58:06.560Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:58:06.572Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T21:59:09.058Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T21:59:09.071Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T22:03:40.867Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T22:03:40.882Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T22:06:39.248Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T22:06:39.271Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T22:07:26.076Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T22:07:26.088Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T22:10:17.826Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T22:10:17.836Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T22:14:08.467Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T22:14:08.472Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T22:14:27.290Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T22:14:27.298Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:17:14.741Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:17:14.746Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:17:54.559Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:17:54.613Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:19:19.174Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:19:19.189Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:19:31.094Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:19:31.100Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:20:47.149Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:20:47.162Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:21:09.121Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:21:09.127Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:22:30.836Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:22:30.846Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:23:35.784Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:23:35.791Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:26:49.361Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:26:49.366Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:27:03.082Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:27:03.089Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:28:38.718Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:28:38.724Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:29:05.101Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:29:05.107Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:29:12.565Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:29:12.572Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:29:20.618Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:29:20.757Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:32:13.898Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:32:13.912Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:33:02.829Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:33:02.838Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:34:27.754Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:34:27.769Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:47:34.324Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:47:34.346Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:56:29.727Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:56:29.775Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:56:36.446Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:56:36.468Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:57:03.373Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:57:03.404Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-29T23:59:13.473Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-29T23:59:13.481Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T00:04:09.639Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T00:04:09.649Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:05:14.311Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:05:14.320Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:07:03.814Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:07:03.870Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:09:45.157Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:09:45.182Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:09:53.337Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:09:53.342Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:12:35.762Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:12:35.781Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:14:50.148Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:14:50.169Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:15:37.975Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:15:38.002Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:17:11.147Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:17:11.155Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:19:07.154Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:19:07.162Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:19:54.005Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:19:54.035Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:27:18.535Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:27:18.592Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:32:00.587Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:32:00.664Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:32:58.358Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:32:58.426Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:33:11.637Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:33:11.646Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:35:09.980Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:35:10.096Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:35:27.869Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:35:27.917Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:38:01.137Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:38:01.144Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:39:19.315Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:39:19.328Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:39:53.384Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:39:53.392Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:39:59.321Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:39:59.384Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:41:00.736Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:41:00.795Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:41:52.471Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:41:52.577Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T01:42:23.448Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T01:42:23.459Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:33:43.282Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:33:43.291Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:34:36.588Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:34:36.596Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:35:29.450Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:35:29.463Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:35:45.781Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:35:45.789Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:36:23.592Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:36:23.605Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:37:31.410Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:37:31.486Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:37:50.309Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:37:50.319Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:39:20.490Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:39:20.496Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:40:57.461Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:40:57.467Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:41:16.361Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:41:16.376Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:42:16.141Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:42:16.148Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:42:58.688Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:42:58.701Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:43:12.532Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:43:12.550Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:43:19.055Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:43:19.068Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:43:34.410Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:43:34.427Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:43:47.115Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:43:47.128Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:45:32.040Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:45:32.052Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:55:12.892Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:55:12.901Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:55:45.718Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:55:45.724Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T20:59:28.188Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T20:59:28.225Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T21:00:35.392Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T21:00:35.397Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T21:04:23.631Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T21:04:23.669Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T21:05:40.338Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T21:05:40.346Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T21:16:46.687Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T21:16:46.715Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T23:14:57.676Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T23:14:57.684Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T23:15:22.409Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T23:15:22.421Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T23:15:48.688Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T23:15:48.705Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T23:16:25.205Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T23:16:25.211Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T23:16:45.516Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T23:16:45.526Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-30T23:17:42.691Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-30T23:17:42.702Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T10:02:41.046Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T10:02:41.070Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T12:21:11.015Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T12:21:11.021Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T17:24:47.048Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T17:24:47.060Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:24:59.316Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:24:59.348Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:48:51.002Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:48:51.055Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:51:44.015Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:51:44.020Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:53:46.880Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:53:46.890Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:54:34.952Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:54:35.306Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:55:10.398Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:55:10.411Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:57:56.854Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:57:56.955Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:59:00.659Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:59:00.665Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T19:59:57.893Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T19:59:57.906Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:00:09.872Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:00:09.883Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:00:42.398Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:00:42.403Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:12:24.653Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:12:24.666Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:23:14.494Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:23:14.542Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:24:04.026Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:24:04.094Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:29:59.947Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:29:59.954Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:30:33.257Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:30:33.263Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:32:55.675Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:32:55.688Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:35:30.226Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:35:30.232Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:36:57.846Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:36:57.854Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:37:45.487Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:37:45.494Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:38:25.847Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:38:25.853Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:38:51.418Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:38:51.449Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:39:44.889Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:39:44.894Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:40:36.464Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:40:36.472Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:40:47.609Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:40:47.618Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:42:20.493Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:42:20.505Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T20:43:41.665Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T20:43:41.674Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T21:05:05.553Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T21:05:05.561Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-01-31T21:05:26.386Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T21:05:26.405Z"}
