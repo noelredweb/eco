@@ -568,3 +568,7 @@
 {"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T21:05:05.561Z"}
 {"level":"info","message":"connected to db","timestamp":"2023-01-31T21:05:26.386Z"}
 {"level":"info","message":"Listening on port 3001","timestamp":"2023-01-31T21:05:26.405Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-02-02T11:25:02.706Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-02-02T11:25:02.714Z"}
+{"level":"info","message":"connected to db","timestamp":"2023-02-02T11:45:26.612Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2023-02-02T11:45:26.622Z"}

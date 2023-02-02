@@ -56,7 +56,7 @@ router.get("/petition/:id", async (req, res) => {
       image: petition.image,
       goal: petition.goal,
       performance: petition.performance,
-      performanceRate: petition.performance / petition.goal,
+      performanceRate: petition.performance / petition.goal * 100,
       _id: petition._id,
     }
 
